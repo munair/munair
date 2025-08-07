@@ -14,6 +14,8 @@ To that end I am developing institutional-grade trading technology that reduces 
 - **Architecture**: Dependency inversion principle driven, type-first functional programming
 - **Philosophy**: Systematic error reduction through rule-based frameworks
 
+![Striketarget AI - Strikelegger Interface](strikelegger-2800x1500px.png)
+
 ### Development Principles
 - Define types first, implement second
 - Apply dependency inversion consistently
