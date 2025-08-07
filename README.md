@@ -1,6 +1,6 @@
 ## Executive Summary
 
-[I](https://hashnode.com/@munair) am the chieft marketing strategist at [Infectious Content LLC](https://www.infectiouscontent.com/) (formerly Useful Coin LLC). However, these days I am absorbed in the ever evolving [Striketarget](https://striketarget.ai/) AI project (a neural decision framework for options traders). It affords me the opportunity to **vibe code** at the intersection of equity derivatives trading and AI research all while enjoying the benefits of [Capoeira Wellness](https://www.instagram.com/contramestrezumbi/) and [Theravādin](https://en.wikipedia.org/wiki/Theravada) [sīla](https://drive.google.com/file/d/1qwl-bqy180Foo5kT7_ABpp3uPiv0hEdi/view).
+[I'm](https://hashnode.com/@munair) the chieft marketing strategist at [Infectious Content LLC](https://www.infectiouscontent.com/) (formerly Useful Coin LLC). However, these days I'm absorbed in the ever evolving [Striketarget](https://striketarget.ai/) AI project (a neural decision framework for options traders). It affords me the opportunity to **vibe code** at the intersection of equity derivatives trading and AI research all while enjoying the benefits of [Capoeira Wellness](https://www.instagram.com/contramestrezumbi/) and [Theravādin](https://en.wikipedia.org/wiki/Theravada) [sīla](https://drive.google.com/file/d/1qwl-bqy180Foo5kT7_ABpp3uPiv0hEdi/view).
 
 ## Building Defensive Systems
 
@@ -33,4 +33,3 @@ To that end I am developing institutional-grade trading technology that reduces 
 ---
 
 *"We find that the investors who trade the most are not the best-informed; rather, they are the most overconfident and their trading activity is hazardous to their wealth."* - Barber & Odean (2000)
-```
