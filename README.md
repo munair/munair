@@ -1,6 +1,6 @@
 ## Executive Summary
 
-[I'm](https://hashnode.com/@munair) the chieft marketing strategist at [Infectious Content LLC](https://www.infectiouscontent.com/) (formerly Useful Coin LLC). However, these days I'm absorbed in the ever evolving [Striketarget](https://striketarget.ai/) AI project (a neural decision framework for options traders). It affords me the opportunity to **vibe code** at the intersection of equity derivatives trading and AI research all while enjoying the benefits of [Capoeira Wellness](https://www.instagram.com/contramestrezumbi/) and [Theravādin](https://en.wikipedia.org/wiki/Theravada) [sīla](https://drive.google.com/file/d/1qwl-bqy180Foo5kT7_ABpp3uPiv0hEdi/view).
+[I'm](https://hashnode.com/@munair) the chieft marketing strategist at [Infectious Content LLC](https://www.infectiouscontent.com/) (formerly Useful Coin LLC). However, these days I'm absorbed in the ever evolving [Striketarget](https://striketarget.ai/) AI project (a neural decision framework for options traders). It affords me the opportunity to **vibe code** at the intersection of equity derivatives trading and AI research all while enjoying the benefits of [Capoeira Wellness](https://www.instagram.com/contramestrezumbi/) and the [Theravādin](https://en.wikipedia.org/wiki/Theravada) practices of [sīla](https://drive.google.com/file/d/1qwl-bqy180Foo5kT7_ABpp3uPiv0hEdi/view) and [samādhi](https://www.youtube.com/watch?v=M5xyx4c3NBk).
 
 ## Building Defensive Systems
 
